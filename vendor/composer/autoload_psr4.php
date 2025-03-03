@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Sis\\BladeContext\\' => array($baseDir . '/src'),
+    'Swarde\\BladeContext\\' => array($baseDir . '/src'),
 );
