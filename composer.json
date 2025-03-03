@@ -1,6 +1,6 @@
 {
     "name": "swarde/blade-context",
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "description": "A Laravel Blade directive package that adds a @controller directive for embedding controller comments in Blade templates.",
     "type": "library",
     "license": "MIT",
