@@ -1,7 +1,7 @@
 {
     "name": "sis/blade-context",
     "version": "v1.0.0",
-    "description": "A Laravel Blade directive package that adds a @controller directive for embedding controller comments in Blade templates.",
+    "description": "Allow @controller directive for embedding controller comments in Blade templates.",
     "type": "library",
     "license": "MIT",
     "authors": [
