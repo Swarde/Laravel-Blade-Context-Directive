@@ -1,6 +1,6 @@
 <?php
 
-namespace Swarde\BladeContext;
+namespace Sis\BladeContext;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Blade;
