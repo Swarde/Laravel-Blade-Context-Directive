@@ -1,5 +1,5 @@
 {
-    "name": "swarde/blade-context",
+    "name": "sis/blade-context",
     "version": "v1.0.0",
     "description": "A Laravel Blade directive package that adds a @controller directive for embedding controller comments in Blade templates.",
     "type": "library",
@@ -7,20 +7,20 @@
     "authors": [
         {
             "name": "Marhadi Wijaya",
-            "email": "marhadi.wijaya@swarde.com"
+            "email": "marhadiw.dev@gmail.com"
         }
     ],
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
-            "Swarde\\BladeContext\\": "src/"
+            "Sis\\BladeContext\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Swarde\\BladeContext\\BladeDirectiveServiceProvider"
+                "Sis\\BladeContext\\BladeDirectiveServiceProvider"
             ]
         }
     }
